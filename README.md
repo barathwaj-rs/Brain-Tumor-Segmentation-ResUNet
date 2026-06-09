@@ -122,17 +122,7 @@ python app.py
 * Matplotlib
 * ReportLab
 
----
 
-## 👨‍💻 Developer
-
-**Barathwaj R S**
-
-B.Tech CSE (AI & DS)
-
-SASTRA University
-
----
 
 ## ⚠ Disclaimer
 
